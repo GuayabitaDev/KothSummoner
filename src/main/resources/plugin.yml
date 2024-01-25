@@ -1,0 +1,3 @@
+name: KothSummoner
+version: '${project.version}'
+main: me.guayabita.random.Plugin

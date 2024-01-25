@@ -1,0 +1,6 @@
+# SIMPLE CONFIG LMAO
+
+KOTH-NAME: 'Sky'
+KOTH-DURATION: 180 # In seconds
+ITEM-COOLDOWN: 60 # In seconds
+COOLDOWN-MESSAGE: '&cYou must wait {time} seconds before using this again!'
